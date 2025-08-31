@@ -1,2 +1,2 @@
-# trees-research
+## Trees research
 Trees research with Scala and Functional approach, I hope...
